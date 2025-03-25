@@ -41,7 +41,6 @@ The Text to Speech (TTS) Application is a desktop application built using Python
    python tts_application.py
    ```
 
-Here's the reference you can add to your README file:
 
 ---
 
